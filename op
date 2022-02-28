@@ -2,3 +2,4 @@ def myfunction():
     p=5
     return p+5
 print(myfunction())
+print(p)
